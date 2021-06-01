@@ -6,3 +6,6 @@
 # Strategies:
 # Looking up the answer for just a bit longer before asking for help.
 # Looking ahead of course material.
+
+# Shoutout
+# Michael Marchand has been an incredible help in understand principles of git and cloning.
