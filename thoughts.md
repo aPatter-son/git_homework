@@ -9,3 +9,7 @@
 
 # Shoutout
 # Michael Marchand has been an incredible help in understand principles of git and cloning.
+
+# Additional thoughts:
+# Submarines don't have windows.
+# But do they have lots of mirrors instead
